@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rajneesh (Rajnish is also correct)
+- 👀 I’m interested in Java and Android Development
+- 🌱 I’m currently learning Java Programming Language
